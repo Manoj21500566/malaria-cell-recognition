@@ -38,7 +38,6 @@ Plot the performance plot
 
 ## PROGRAM
 ~~~
-
 # Developed By : Manoj M
 # Register Number : 212221240027
 import os
@@ -148,7 +147,7 @@ if(x_single_prediction==1):
     print("Cell is UNINFECTED")
 else:
     print("Cell is PARASITIZED")
-    ~~~
+~~~
 
 ## OUTPUT
 
